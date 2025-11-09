@@ -1,1 +1,4 @@
 project_id = "tuzkhzzwgujocurmvjds"
+
+[functions.generate-blueprint]
+verify_jwt = true
